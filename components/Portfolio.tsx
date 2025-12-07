@@ -38,7 +38,7 @@ const portfolioItems: PortfolioItem[] = [
     category: 'photo',
     description: 'Comprehensive wedding photography capturing every precious moment from preparation to ceremony. Documented the entire wedding journey including pre-wedding rituals, bridal preparation, ceremony, and reception. Delivered high-quality event photography showcasing attention to detail and storytelling through images.',
     image: '/Media/Wedding 1.jpg',
-    link: 'https://drive.google.com/drive/folders/1XqFQ7qBLjwQp8ke9lT2raJeaUyRT_Y7W?usp=sharing',
+    link: 'https://drive.google.com/drive/folders/',
   },
   {
     id: 4,
