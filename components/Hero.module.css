@@ -257,14 +257,13 @@
     height: 100%;
     top: 0;
     bottom: 0;
-    opacity: 0.25;
+    opacity: 0.4;
     background-position: center center;
     background-size: cover;
   }
 
   .backgroundImage::before {
-    background: 
-      linear-gradient(to bottom, var(--bg-primary) 0%, rgba(26, 11, 46, 0.85) 20%, rgba(26, 11, 46, 0.6) 50%, rgba(26, 11, 46, 0.4) 80%, transparent 100%);
+    opacity: 0;
   }
 
   .title {
